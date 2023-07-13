@@ -16,7 +16,7 @@ Ripple Models-Final - This file contains the predictive modelling to predict fut
 
 Mail Content - This file contains the automated mail being sent daily to give customer idea of the prices for tomorrow.
 
-BagOfWords - This file contains the bag of words related to the cryptocurrency and the financial markets in general
+BagOfWords - This file contains the bag of words related to the cryptocurrency and the financial markets in general.
 
 cleaned_dataset - It contains the dataset that is being cleaned after performing all cleaning and preprocessing steps
 
