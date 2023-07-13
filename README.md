@@ -1,5 +1,5 @@
 # Dissertation-Codes-and-Files
-This repository contains the codes and files submitted as a requirement for dissertation of MSc Business Analytics 2023, Trinity College Dublin 
+This repository contains the codes and files submitted as a requirement for dissertation of MSc Business Analytics 2023, Trinity College Dublin. Submitted by Felix Jose Kannai, Tanisha Ghosh, Akshay Raghupathi Naidu
 
 The files consituted in the repository and their brief description
 Tweets Extraction- This file contains the extraction of tweets
